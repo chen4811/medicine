@@ -759,7 +759,7 @@ function App() {
             </span>
             <span className="text-gray-300 dark:text-gray-600">|</span>
             <a
-              href="https://github.com/badman200/medicine"
+              href="https://github.com/chen4811/medicine"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 transition-colors"
