@@ -41,7 +41,7 @@ export default defineConfig({
       }
     }
   ],
-  base: './', // 使用相对路径，适配GitHub Pages
+  base: '/medicine/', // 使用相对路径，适配GitHub Pages
   resolve: {
     alias: {
       "@": fileURLToPath(new URL('./src', import.meta.url)),
